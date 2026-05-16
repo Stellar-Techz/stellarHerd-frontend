@@ -75,7 +75,7 @@ We actively welcome contributions from the Stellar community.
 
 ## 🤝 Get Involved
 
-- GitHub: `https://github.com/eniola3321/stellarherd`
+- GitHub: `https://github.com/stellarherd`
 - Discord / Telegram: (links coming soon)
 - Applying to **Stellar Community Fund (SCF)**
 
